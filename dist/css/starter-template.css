@@ -18,10 +18,15 @@ body {
 	padding: 40px;
 }
 
-.impressum {
+.starter-template adresse  {
     color: red;
     font-family: san-serif, Arial;
-    padding-top: 10px;
+}
+
+.starter-template h4 {
+	color: red;
+	font-family: san-serif, Arial;
+	padding: 60px;
 }
 
 #links {
