@@ -5,3 +5,26 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+.starter-template h1 {
+  	color: red;
+  	font-family: san-serif, Arial;
+  	padding: 10px;
+}
+
+.lead {
+	color: red;
+	family-font: san-serif, Arial;
+	padding: 40px;
+}
+
+.impressum {
+    color: red;
+    font-family: san-serif, Arial;
+    padding-top: 10px;
+}
+
+#links {
+	text-align: center;
+	
+}
